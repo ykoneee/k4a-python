@@ -7,7 +7,6 @@ This library is a wrapper in Python  for Azure-Kinect-Sensor-SDK
 
 # Install
 ## Linux
-
 ```
 pip install k4a-python
 ```
@@ -16,6 +15,10 @@ pip install only have test on ubuntu 18.04, but it should aslo work well with ot
 ## Windows
 pip on windows has not been tested, will test as soon.
 
+# TODO
+* IMU data
+* Microphone data
+* other official c++ API
 # Usage
 The Python API mainly refers to the [official C + + API](https://microsoft.github.io/Azure-Kinect-Sensor-SDK/master/group__cppsdk.html)
 
