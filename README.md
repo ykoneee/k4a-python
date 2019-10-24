@@ -19,6 +19,8 @@ pip on windows has not been tested, will test as soon.
 * IMU data
 * Microphone data
 * other official c++ API
+* other official modules, like k4arecord
+* [official example](https://github.com/microsoft/Azure-Kinect-Sensor-SDK/tree/develop/examples)
 # Usage
 The Python API mainly refers to the [official C + + API](https://microsoft.github.io/Azure-Kinect-Sensor-SDK/master/group__cppsdk.html)
 
