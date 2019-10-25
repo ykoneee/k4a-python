@@ -1,4 +1,5 @@
 # k4a-python
+![PyPI](https://img.shields.io/pypi/v/k4a-python)  
 This library is a wrapper in Python  for Azure-Kinect-Sensor-SDK
 
 # Prereqs
