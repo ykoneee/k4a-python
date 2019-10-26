@@ -28,9 +28,9 @@ pip on windows has not been tested, will test as soon.
 * [official example](https://github.com/microsoft/Azure-Kinect-Sensor-SDK/tree/develop/examples)
 * Microphone data
 # Usage
-The Python API mainly refers to the [official C + + API](https://microsoft.github.io/Azure-Kinect-Sensor-SDK/master/group__cppsdk.html)
-(Will have better example)
-dirty example code :
+The Python API mainly refers to the [official C + + API](https://microsoft.github.io/Azure-Kinect-Sensor-SDK/master/group__cppsdk.html)  
+(Will have better example)  
+dirty example code :  
 ```
 import pyk4a
 import cv2
