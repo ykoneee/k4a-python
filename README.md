@@ -1,7 +1,13 @@
 # k4a-python
 ![PyPI](https://img.shields.io/pypi/v/k4a-python)  
 This library is a wrapper in Python  for Azure-Kinect-Sensor-SDK
-
+- [x] depth\color\ir image numpy data
+- [x] depth (colorize)  
+- [x] depth to color transform
+- [x] IMU data  
+- [x] read camera setting
+- [ ] set camera setting
+- [x] some trivial functions, such as get_installed_count
 # Prereqs
 * install [Azure Kinect SDK](https://github.com/microsoft/Azure-Kinect-Sensor-SDK) first
 * install pybind11 by pip, ```pip install pybind11```
@@ -17,7 +23,6 @@ pip install only have test on ubuntu 18.04, but it should aslo work well with ot
 pip on windows has not been tested, will test as soon.
 
 # TODO
-* IMU data
 * other official c++ API
 * other official modules, like k4arecord
 * [official example](https://github.com/microsoft/Azure-Kinect-Sensor-SDK/tree/develop/examples)
