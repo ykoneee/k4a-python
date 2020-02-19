@@ -1,4 +1,4 @@
-# Since the author's Azure-Kinect is broken, it will not be updated in the future.You can get the project source code from pypi.
+# Since my Azure-Kinect is broken, it will not be updated in the future.You can get the project source code from pypi.
 # k4a-python
 ![PyPI](https://img.shields.io/pypi/v/k4a-python)  
 This library is a wrapper in Python  for Azure-Kinect-Sensor-SDK
